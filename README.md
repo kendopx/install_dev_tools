@@ -1,5 +1,5 @@
 ```sh
-### For Mac users
+### Mac OS
 
 ###################################################################################################
 #
@@ -24,7 +24,7 @@ ls -lrt
 ### Step 4. Run the script to install the development tools. (usually takes a few minutes)
 ./install_mac_dev_tools.sh
 
-### For Windows users
+### Windows system
 
 ###################################################################################################
 #
@@ -35,7 +35,6 @@ ls -lrt
 #  - With Ubuntu, you can use Linux and Zsh or Bash command-line tools directly on Windows.
 #
 ###################################################################################################
-
 
 ### Step 1. As administrtor, launch Powershell on Windows
 
