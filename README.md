@@ -44,8 +44,8 @@ wsl --install
 ### Note it would take few min. Once the install is complete you will be prompted to restart or reboot your laptop 
 
 ### Step 3. Upon restarting your laptop, you will be asked to create a username and password, such as:
-username: swilliams
-password: swilliams123!
+username: username
+password: password
 
 ### Step 4. From the Ubuntu terminal, clone the repository and run the command below:
 git clone https://github.com/kendopx/install_dev_tools.git
